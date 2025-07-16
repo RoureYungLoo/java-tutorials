@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java-javafx" />
+        <module name="java-swing" />
+        <module name="java-collection" />
+        <module name="java-concurrency" />
+        <module name="java-exception" />
+        <module name="java-reflection" />
+        <module name="java-logging" />
+        <module name="java-jdbc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="java-tutorials" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
