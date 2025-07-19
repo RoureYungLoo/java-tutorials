@@ -5,19 +5,19 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.luruoyang</groupId>
-    <artifactId>java-concurrency</artifactId>
+    <artifactId>java-02-collection</artifactId>
     <version>24.0.2-RELEASE</version>
 
     <parent>
         <groupId>com.luruoyang</groupId>
-        <artifactId>java-parent</artifactId>
+        <artifactId>java-00-parent</artifactId>
         <version>24.0.2-RELEASE</version>
-        <relativePath>../java-parent/pom.xml</relativePath>
+        <relativePath>../java-00-parent/pom.xml</relativePath>
     </parent>
 
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.source>24</maven.compiler.source>
+        <maven.compiler.target>24</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 

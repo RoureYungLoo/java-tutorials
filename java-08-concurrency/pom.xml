@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.luruoyang</groupId>
-    <artifactId>java-collection</artifactId>
+    <artifactId>java-08-concurrency</artifactId>
     <version>24.0.2-RELEASE</version>
 
     <parent>
         <groupId>com.luruoyang</groupId>
-        <artifactId>java-parent</artifactId>
+        <artifactId>java-00-parent</artifactId>
         <version>24.0.2-RELEASE</version>
-        <relativePath>../java-parent/pom.xml</relativePath>
+        <relativePath>../java-00-parent/pom.xml</relativePath>
     </parent>
 
     <properties>

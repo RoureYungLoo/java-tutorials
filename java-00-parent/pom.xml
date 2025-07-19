@@ -5,20 +5,23 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.luruoyang</groupId>
-    <artifactId>java-parent</artifactId>
+    <artifactId>java-00-parent</artifactId>
     <version>24.0.2-RELEASE</version>
 
     <packaging>pom</packaging>
 
     <modules>
-        <module>../java-collection</module>
-        <module>../java-concurrency</module>
-        <module>../java-exception</module>
-        <module>../java-javafx</module>
-        <module>../java-swing</module>
-        <module>../java-jdbc</module>
-        <module>../java-logging</module>
-        <module>../java-reflection</module>
+        <module>../java-01-quickstart</module>
+        <module>../java-02-collection</module>
+        <module>../java-03-exception</module>
+        <module>../java-04-jdbc</module>
+        <module>../java-05-reflection</module>
+        <module>../java-06-annotation</module>
+        <module>../java-07-proxy</module>
+        <module>../java-08-concurrency</module>
+        <module>../java-09-logging</module>
+        <module>../java-98-javafx</module>
+        <module>../java-99-swing</module>
     </modules>
     <properties>
         <maven.compiler.source>24</maven.compiler.source>

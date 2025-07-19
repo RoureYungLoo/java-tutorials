@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/java-collection/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-collection/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-concurrency/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-concurrency/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-exception/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-exception/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-javafx/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-javafx/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-jdbc/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-jdbc/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-logging/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-logging/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-parent/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-parent/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-reflection/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-reflection/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-swing/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/java-swing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-00-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-00-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-01-quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-01-quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-02-collection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-02-collection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-03-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-03-exception/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-04-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-04-jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-05-reflection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-05-reflection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-06-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-06-annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-07-proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-07-proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-08-concurrency/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-08-concurrency/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-09-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-09-logging/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-98-javafx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-98-javafx/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-99-swing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-99-swing/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />

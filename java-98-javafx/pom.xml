@@ -5,16 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.luruoyang</groupId>
-    <artifactId>java-reflection</artifactId>
+    <artifactId>java-98-javafx</artifactId>
     <version>24.0.2-RELEASE</version>
 
     <parent>
         <groupId>com.luruoyang</groupId>
-        <artifactId>java-parent</artifactId>
+        <artifactId>java-00-parent</artifactId>
         <version>24.0.2-RELEASE</version>
-        <relativePath>../java-parent/pom.xml</relativePath>
+        <relativePath>../java-00-parent/pom.xml</relativePath>
     </parent>
-
     <properties>
         <maven.compiler.source>24</maven.compiler.source>
         <maven.compiler.target>24</maven.compiler.target>
