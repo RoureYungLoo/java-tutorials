@@ -17,6 +17,18 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17">
+      <module name="java-00-parent" target="17" />
+      <module name="java-01-quickstart" target="17" />
+      <module name="java-02-collection" target="17" />
+      <module name="java-03-exception" target="17" />
+      <module name="java-04-jdbc" target="17" />
+      <module name="java-05-reflection" target="17" />
+      <module name="java-06-annotation" target="17" />
+      <module name="java-07-proxy" target="17" />
+      <module name="java-08-concurrency" target="17" />
+      <module name="java-09-logging" target="17" />
+      <module name="java-98-javafx" target="17" />
+      <module name="java-99-swing" target="17" />
       <module name="java-tutorials" target="17" />
     </bytecodeTargetLevel>
   </component>
