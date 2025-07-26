@@ -12,7 +12,7 @@
         <module name="java-08-concurrency" />
         <module name="java-06-annotation" />
         <module name="java-03-exception" />
-        <module name="java-collection" />
+        <module name="java-01-quickstart" />
         <module name="java-07-proxy" />
         <module name="java-99-swing" />
         <module name="java-04-jdbc" />
