@@ -14,6 +14,18 @@
         <option value="$PROJECT_DIR$/java-reflection/pom.xml" />
         <option value="$PROJECT_DIR$/java-swing/pom.xml" />
         <option value="$PROJECT_DIR$/java-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/java-00-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/java-06-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/java-07-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/java-01-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/java-02-collection/pom.xml" />
+        <option value="$PROJECT_DIR$/java-03-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/java-04-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/java-05-reflection/pom.xml" />
+        <option value="$PROJECT_DIR$/java-08-concurrency/pom.xml" />
+        <option value="$PROJECT_DIR$/java-09-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/java-98-javafx/pom.xml" />
+        <option value="$PROJECT_DIR$/java-99-swing/pom.xml" />
       </list>
     </option>
   </component>
